@@ -5,6 +5,10 @@ public class App{
         doSomething("Maurice");
     }
    
+    /**
+     * 
+     * @param name
+     */
     public static void doSomething(String name) {
         System.out.println("Doing something now: " + name);
         
