@@ -13,4 +13,9 @@ public class App{
         System.out.println("Doing something now: " + name);
         
     }
+ // second method in the second branch, called 
+ public static void branchMethod(){
+    System.out.println("Nothing going on in here really..");
+}
+
    }

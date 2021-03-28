@@ -7,3 +7,4 @@ Includes javadocs (/**)
 
 Also has git set up and all that business
 
+# Changes made to the file structure
